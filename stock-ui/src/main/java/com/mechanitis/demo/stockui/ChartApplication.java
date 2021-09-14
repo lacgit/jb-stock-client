@@ -35,4 +35,14 @@ public class ChartApplication extends Application {
             return ((Stage) getSource());
         }
     }
+
+    // Method called "main" here for experimental purposes.
+    // But for production use you may decide to call it, "run" for example.
+    // Exact name does not matter.
+    public static void run(String[] args)
+    {
+        ChartApplication.launch();
+    }
+
+
 }

@@ -1,5 +1,7 @@
-package com.mechanitis.demo.stockclient;
+package com.comerich.lxchart.stockclient;
 
+import com.comerich.lxchart.stockclient.RSocketStockClient;
+import com.comerich.lxchart.stockclient.StockPrice;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.1</version>
+		<version>2.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mechanitis</groupId>
-	<artifactId>stock-client</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<groupId>com.comerich.lxchart</groupId>
+	<artifactId>lxchart-stock-client</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>stock-client</name>
 	<description>Client code to connect to the stock service</description>
 
@@ -51,11 +51,13 @@
 	</dependencies>
 
 	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.springframework.boot</groupId>
+					<artifactId>spring-boot-maven-plugin</artifactId>
+				</plugin>
+			</plugins>
+		</pluginManagement>
 	</build>
 </project>

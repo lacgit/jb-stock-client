@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/stock-client/stock-client.iml" filepath="$PROJECT_DIR$/stock-client/stock-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stock-ui/stock-ui.iml" filepath="$PROJECT_DIR$/stock-ui/stock-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chart-ui/chart-ui.iml" filepath="$PROJECT_DIR$/chart-ui/chart-ui.iml" />
     </modules>
   </component>
 </project>

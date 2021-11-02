@@ -1,4 +1,4 @@
-package com.mechanitis.demo.stockclient;
+package com.comerich.lxchart.stockclient;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;

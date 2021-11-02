@@ -1,11 +1,10 @@
-package com.mechanitis.demo.stockclient;
+package com.comerich.lxchart.stockclient;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Flux;
 
 import java.io.IOException;
-import java.time.Duration;
 
 import static java.time.Duration.ofSeconds;
 import static reactor.util.retry.Retry.backoff;

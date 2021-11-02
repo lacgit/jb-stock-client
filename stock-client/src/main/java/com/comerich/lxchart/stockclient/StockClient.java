@@ -1,4 +1,4 @@
-package com.mechanitis.demo.stockclient;
+package com.comerich.lxchart.stockclient;
 
 import reactor.core.publisher.Flux;
 

@@ -1,5 +1,7 @@
-package com.mechanitis.demo.stockclient;
+package com.comerich.lxchart.stockclient;
 
+import com.comerich.lxchart.stockclient.StockPrice;
+import com.comerich.lxchart.stockclient.WebClientStockClient;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.web.reactive.function.client.WebClient;

@@ -1,7 +1,7 @@
-package com.mechanitis.demo.stockui;
+package com.comerich.lxchart.chartui;
 
-import com.mechanitis.demo.stockclient.StockClient;
-import com.mechanitis.demo.stockclient.StockPrice;
+import com.comerich.lxchart.stockclient.StockClient;
+import com.comerich.lxchart.stockclient.StockPrice;
 import javafx.application.Platform;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;

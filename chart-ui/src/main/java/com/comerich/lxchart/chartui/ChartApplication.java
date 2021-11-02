@@ -1,4 +1,4 @@
-package com.mechanitis.demo.stockui;
+package com.comerich.lxchart.chartui;
 
 import javafx.application.Application;
 import javafx.application.Platform;

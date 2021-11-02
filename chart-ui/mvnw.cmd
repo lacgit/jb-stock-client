@@ -58,6 +58,7 @@ set ERROR_CODE=0
 @setlocal
 
 @REM ==== START VALIDATION ====
+set	JAVA_HOME=c:\Program Files\Java\jdk-15.0.1
 if not "%JAVA_HOME%" == "" goto OkJHome
 
 echo.

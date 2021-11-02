@@ -1,6 +1,6 @@
-package com.mechanitis.demo.stockui;
+package com.comerich.lxchart.chartui;
 
-import com.mechanitis.demo.stockui.ChartApplication.StageReadyEvent;
+import com.comerich.lxchart.chartui.ChartApplication.StageReadyEvent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import net.rgielen.fxweaver.core.FxWeaver;

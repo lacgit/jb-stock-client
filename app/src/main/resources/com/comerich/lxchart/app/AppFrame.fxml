@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import org.controlsfx.control.StatusBar?>
+<?import org.kordamp.desktoppanefx.scene.layout.DesktopPane?>
+<BorderPane fx:id="bp_main" fx:controller="com.comerich.lxchart.app.LxAppFrameController"
+			xmlns:fx="http://javafx.com/fxml/1"
+>
+            <!-- stylesheets="/app/AppFrame.css" -->
+	<center>
+	<DesktopPane fx:id="dp_mainFrame" prefHeight="651.0" prefWidth="950.0" >
+	<top>
+		<!-- MenuBar BorderPane.alignment="CENTER">
+			<Menu mnemonicParsing="false" text="File">
+			</Menu>
+			<Menu fx:id="m_edit" visible="false" mnemonicParsing="false" text="Edit">
+			</Menu>
+			<Menu mnemonicParsing="false" text="HS">
+			</Menu>
+			<Menu mnemonicParsing="false" text="HH">
+			</Menu>
+			<Menu mnemonicParsing="false" text="HT">
+			</Menu>
+			<Menu mnemonicParsing="false" text="Port">
+			</Menu>
+		</MenuBar -->
+	</top>
+	</DesktopPane>
+	</center>
+	<bottom>
+		<StatusBar fx:id="sb_frameStatus" prefHeight="10" maxHeight="10" AnchorPane.bottomAnchor="0">
+		</StatusBar>
+	</bottom>
+</BorderPane>

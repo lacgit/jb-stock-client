@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/stock-client/stock-client.iml" filepath="$PROJECT_DIR$/stock-client/stock-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chart-ui/chart-ui.iml" filepath="$PROJECT_DIR$/chart-ui/chart-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>

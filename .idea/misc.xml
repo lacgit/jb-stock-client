@@ -10,6 +10,7 @@
       <list>
         <option value="$PROJECT_DIR$/stock-client/pom.xml" />
         <option value="$PROJECT_DIR$/chart-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/app/pom.xml" />
       </list>
     </option>
   </component>

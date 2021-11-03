@@ -15,6 +15,8 @@
 	<description>Client code to connect to the stock service</description>
 
 	<properties>
+		<!--	lc211102 -	version 17 does not work	-->
+		<!--	lc211102 -	module-info does not work, "log" symbol not found	-->
 		<java.version>15</java.version>
 		<spring-boot.repackage.skip>true</spring-boot.repackage.skip>
 	</properties>
